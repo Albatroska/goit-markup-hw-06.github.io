@@ -388,8 +388,8 @@
 
        }
 
-      .checkbox-label:checked + .checkbox-label::after{
-           background-image: url(../images/iconCheck.svg);
+      .checkbox-label:checked + .checkbox-label::after {
+           background-image: url(../images/Vector-checkbox.svg);
            background-repeat: no-repeat;
            background-position: center;
            background-origin: border-box;
@@ -736,13 +736,9 @@
         padding-top: 12px;
         margin-left: 93px;
     }
-    .supscribe-input{
+    .subscribe-input{
         display: flex;
-     
-        justify-content: space-between;
-        
-
-    }
+        }
    
    
     .subscribe b{
